@@ -1,0 +1,14 @@
+IMG_SIZE = (50, 50)
+IMG_SHAPE = (1, IMG_SIZE[0], IMG_SIZE[1], 1)
+HIDDEN_NODES = 40
+OUTPUT_NODES = 2
+NUM_KERNELS = 3
+NN_PATH = "Dino NN\\"
+TRAINING_HISTORY_FILE_NAME = "training_history.csv"
+DATASET_FILE_NAME = "dataset.csv"
+POPULATION_SIZE = 400
+SIMULATION_LENGTH = 150
+NUM_OF_EPOCH = 30
+OUTPUT_LABELS = ['Jump', 'Run']
+MUTATION_RATE = [0.075, 0.075]
+TRAINING_HISTORY_COLUMNS = ['Training Loss', 'Training Accuracy', 'Validation Loss', 'Validation Accuracy']
