@@ -42,11 +42,11 @@ Project is provided with pre trained model witch you could you right now to make
 
 #### Installation
 
-To start using that project on your machine, you need to have a Python 3.7+, download the repository and run 
+To start using that project on your machine, you need to have a Python 3.7+, download the repository and run command below to install all required dependencies to then use it.
 
 >pip install -r requirements.txt
 
-To install all required dependencies to then use it, run SimulateRun.py and watch how it plays.
+Run SimulateRun.py and watch it plays.
 
 ---
 
