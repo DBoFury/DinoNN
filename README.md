@@ -34,7 +34,7 @@ Project is provided with pre trained model witch you could you right now to make
 - <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115737402-c6291300-a394-11eb-9151-95412013d4bc.png"/> Selenium
 - <img align="left" width="45px" src="https://user-images.githubusercontent.com/1499751/115737432-cc1ef400-a394-11eb-8086-3cfa9419d018.png"/> Pynput
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#DinoNN)
 
 ---
 
@@ -47,6 +47,8 @@ To start using that project on your machine, you need to have a Python 3.7+, dow
 >pip install -r requirements.txt
 
 Run SimulateRun.py and watch it plays.
+
+[Back To The Top](#DinoNN)
 
 ---
 
@@ -74,7 +76,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#DinoNN)
 
 ---
 
@@ -83,4 +85,4 @@ SOFTWARE.
 - Upwork - [Didechkin Oleg](https://www.upwork.com/freelancers/~01bc2c6d8b19205903)
 - Fiverr - [Didechkin Oleg](https://www.fiverr.com/dbofury)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#DinoNN)
