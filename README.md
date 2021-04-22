@@ -30,9 +30,9 @@ Project is provided with pre trained model witch you could you right now to make
 
 - <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115754477-e4970a80-a3a4-11eb-8efc-bec67719eff5.png"/> Pandas
 - <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115737285-ab569e80-a394-11eb-9062-153f7b713199.png"/> Numpy
-- <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115737361-bc9fab00-a394-11eb-96eb-c5e9b3b81373.png"/> Tensorflow
+- <img align="left" width="35px" src="https://user-images.githubusercontent.com/1499751/115755027-8d456a00-a3a5-11eb-985d-81721ee48997.png"/> Tensorflow
 - <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115737402-c6291300-a394-11eb-9151-95412013d4bc.png"/> Selenium
-- <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115737432-cc1ef400-a394-11eb-8086-3cfa9419d018.png"/> Pynput
+- <img align="left" width="45px" src="https://user-images.githubusercontent.com/1499751/115737432-cc1ef400-a394-11eb-8086-3cfa9419d018.png"/> Pynput
 
 [Back To The Top](#read-me-template)
 
