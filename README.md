@@ -22,13 +22,14 @@ Project is provided with pre trained model witch you could you right now to make
 
 #### Technologies
 
-- Python
-- PIL (Python Imaging Library)
-- Pandas
-- Numpy
-- Tensorflow
-- Selenium
-- Pynput
+- <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115736045-a513f280-a393-11eb-8dbd-ebd3eda15841.png"/> Python
+- <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115736683-23709480-a394-11eb-83ff-2b9934000eff.png"/> PIL (Python Imaging Library)
+
+- <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115737230-9bd75580-a394-11eb-85f2-34865b371733.png"/> Pandas
+- <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115737285-ab569e80-a394-11eb-9062-153f7b713199.png"/> Numpy
+- <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115737361-bc9fab00-a394-11eb-96eb-c5e9b3b81373.png"/> Tensorflow
+- <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115737402-c6291300-a394-11eb-9151-95412013d4bc.png"/> Selenium
+- <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115737432-cc1ef400-a394-11eb-8086-3cfa9419d018.png"/> Pynput
 
 [Back To The Top](#read-me-template)
 
@@ -43,11 +44,6 @@ To start using that project on your machine, you need to have a Python 3.7+, dow
 pip install -r requirements.txt
 
 To install all required dependencies to then use it, run SimulateRun.py and watch how it plays.
-
----
-
-## References
-[Back To The Top](#read-me-template)
 
 ---
 
