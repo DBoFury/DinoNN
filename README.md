@@ -28,7 +28,7 @@ Project is provided with pre trained model witch you could you right now to make
 - <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115736045-a513f280-a393-11eb-8dbd-ebd3eda15841.png"/> Python
 - <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115736683-23709480-a394-11eb-83ff-2b9934000eff.png"/> PIL (Python Imaging Library)
 
-- <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115737230-9bd75580-a394-11eb-85f2-34865b371733.png"/> Pandas
+- <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115754477-e4970a80-a3a4-11eb-8efc-bec67719eff5.png"/> Pandas
 - <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115737285-ab569e80-a394-11eb-9062-153f7b713199.png"/> Numpy
 - <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115737361-bc9fab00-a394-11eb-96eb-c5e9b3b81373.png"/> Tensorflow
 - <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115737402-c6291300-a394-11eb-9151-95412013d4bc.png"/> Selenium
