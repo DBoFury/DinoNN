@@ -13,9 +13,9 @@ def split_dataset(list_to_split, ratio):
 
 def convert_image(img_path=None, image=None):
     img = None
-    if img_path:
+    if img_path is not None:
         img = np.array(ImageOps.invert(Image.open(img_path)).resize(IMG_SIZE).convert('L'))
-    if image:
+    if image is not None:
         img = np.array(ImageOps.invert(image).resize(IMG_SIZE).convert('L'))
     img = (img / 255.0 * 0.99) + 0.01
     img = img.reshape(IMG_SHAPE)
