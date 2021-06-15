@@ -15,13 +15,13 @@
 
 ## Description
 
-This project server as a demonstration of my coding skills. I had an idea of making simulation of evolution process, but making computer learn just image classification would not be as excited as making it to learn to play Dino game. I wanted it to be able to play actual game in the browser, not a custom self-made game copy.
+This project serves as a demonstration of my coding skills. I had an idea of making a simulation of the evolution process, but making a computer learn just image classification would not be as excited as making it learn to play the Dino game. I wanted it to be able to play an actual game in the browser, not a custom self-made game copy.
 
-To make a decision whether to jump or run, it takes the screenshot, crop it, applies a couple of converts on it and gives it to pre trained Neural Network.
+To make a decision whether to jump or run, it takes the screenshot, crop it, applies a couple of converts on it, and gives it to a pre-trained Neural Network.
 
-It learns the patterns by looking on premade pictures and setting score to each NN from the population, then it takes best from them and creates a new population based on weights of an old one, and mutates them a bit, and does it all over again. After a couple of epochs, when you satisfied with results of current NN, you stop the training and then you free to use that NN to make if play Dino game.
+It learns the patterns by looking at premade pictures and setting the score to each NN from the population, then it takes the best from them and creates a new population-based on the weights of an old one, and mutates them a bit, and does it all over again. After a couple of epochs, when you are satisfied with the results of the current NN, you stop the training, and then you free to use that NN to make it play the Dino game.
 
-Project is provided with pre trained model witch you could you right now to make it play Dino game.
+The project is provided with a pre-trained model which you could you right now to make it play the Dino game.
 
 #### Technologies
 
@@ -54,6 +54,7 @@ Run SimulateRun.py and watch it plays.
 
 ## License
 
+```text
 MIT License
 
 Copyright (c) 2021 Didechkin Oleg
@@ -75,6 +76,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
 
 [Back To The Top](#DinoNN)
 
