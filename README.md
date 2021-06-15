@@ -17,7 +17,7 @@
 
 This project serves as a demonstration of my coding skills. I had an idea of making a simulation of the evolution process, but making a computer learn just image classification would not be as excited as making it learn to play the Dino game. I wanted it to be able to play an actual game in the browser, not a custom self-made game copy.
 
-To make a decision whether to jump or run, it takes the screenshot, crop it, applies a couple of converts on it, and gives it to a pre-trained Neural Network.
+To decide whether to jump or run, it takes the screenshot, crop it, applies a couple of converts on it, and gives it to a pre-trained Neural Network.
 
 It learns the patterns by looking at premade pictures and setting the score to each NN from the population, then it takes the best from them and creates a new population-based on the weights of an old one, and mutates them a bit, and does it all over again. After a couple of epochs, when you are satisfied with the results of the current NN, you stop the training, and then you free to use that NN to make it play the Dino game.
 
