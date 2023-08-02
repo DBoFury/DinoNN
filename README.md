@@ -34,7 +34,7 @@ The project is provided with a pre-trained model which you could you right now t
 - <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115737402-c6291300-a394-11eb-9151-95412013d4bc.png"/> Selenium
 - <img align="left" width="45px" src="https://user-images.githubusercontent.com/1499751/115737432-cc1ef400-a394-11eb-8086-3cfa9419d018.png"/> Pynput
 
-[Back To The Top](#DinoNN)
+[Back To The Top](#dinonn)
 
 ---
 
@@ -48,7 +48,7 @@ To start using that project on your machine, you need to have a Python 3.7+, dow
 
 Run SimulateRun.py and watch it plays.
 
-[Back To The Top](#DinoNN)
+[Back To The Top](#dinonn)
 
 ---
 
@@ -78,7 +78,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-[Back To The Top](#DinoNN)
+[Back To The Top](#dinonn)
 
 ---
 
@@ -86,6 +86,6 @@ SOFTWARE.
 
 - Upwork - [Didechkin Oleg](https://www.upwork.com/freelancers/~01bc2c6d8b19205903)
 - Fiverr - [Didechkin Oleg](https://www.fiverr.com/dbofury)
-- LinkedIn - [Didechkin Oleg](https://www.linkedin.com/in/%D0%BE%D0%BB%D0%B5%D0%B3-%D0%B4%D0%B8%D0%B4%D0%B5%D1%87%D0%BA%D0%B8%D0%BD-881687214/?locale=en_US)
+- LinkedIn - [Didechkin Oleg](https://www.linkedin.com/in/oleg-didechkin)
 
-[Back To The Top](#DinoNN)
+[Back To The Top](#dinonn)
