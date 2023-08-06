@@ -44,7 +44,7 @@ The project is provided with a pre-trained model which you could you right now t
 
 To start using that project on your machine, you need to have a Python 3.7+, download the repository and run the command below to install all required dependencies to then use it.
 
->pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 Run SimulateRun.py and watch it plays.
 
